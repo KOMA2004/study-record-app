@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { supabase } from './lib/supabase'
-import { TodoInput } from './components/molecules/Todoinput'
+import { TodoInput } from './components/molecules/TodoInput'
 import { Todo } from './components/molecules/Todo'
 
 export default function App() {
